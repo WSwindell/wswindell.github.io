@@ -61,3 +61,14 @@ window.onclick = function(event) {
 		event.target.classList.remove("show-modal");
 	}
 }
+
+
+var webLinks = document.querySelectorAll(".instaLink");
+	if(window.innerWidth < 1000) {
+		webLinks.forEach(function(webLink) {
+			try {
+				webLink.href = 'javascript: void(0)';
+			} catch(err) {
+			}
+		});
+	}
