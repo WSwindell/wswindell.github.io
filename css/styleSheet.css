@@ -923,8 +923,32 @@ html,body{
 	max-width: 40%;
 	display: none;
 }
+
 #diamondPic2 {
 	max-width: 90%;
+	padding-top: 30px;
+}
+
+#glovePic1 {
+	max-width: 40%;
+	display: none;
+	float: left;
+}
+
+#glovePic3 {
+	max-width: 20%;
+	display: none;
+}
+
+#glovePic2 {
+	padding-left: 10%;
+	max-width: 80%;
+	padding-top: 30px;
+}
+
+#glovePic4 {
+	padding-left: 15%;
+	max-width: 70%;
 	padding-top: 30px;
 }
 
@@ -936,6 +960,25 @@ html,body{
 	#diamondPic2 {
 		display: none;
 	}
+	
+	#glovePic1 {
+		display: block;
+	}
+
+	#glovePic3 {
+		display: block;
+		position: absolute;
+		top: 60%;
+	}
+
+	#glovePic2 {
+		display: none;
+	}
+
+	#glovePic4 {
+		display: none;
+	}
+	
 	.modalImg {
 		float: left;
 	}
