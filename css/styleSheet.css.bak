@@ -744,7 +744,7 @@ html,body{
 	
 	#circle8 {
 	position: relative;
-	left: -300%;
+	left: -380%;
 	top: -10px;
 	width: 200px;
 	height: 200px;
