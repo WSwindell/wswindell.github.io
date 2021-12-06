@@ -587,8 +587,8 @@ html,body{
 	position: relative;
 	left: -180%;
 	top: -20px;
-	width: 160px;
-	height: 160px;
+	width: 180px;
+	height: 180px;
 }
 
 #skill5 {
@@ -707,18 +707,18 @@ html,body{
 	position: relative;
 	left: 120%;
 	top: -400px;
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	}
 
 	#skill5 {
-		width: 200px;
-		height: 200px;
+		width: 220px;
+		height: 220px;
 	}
 	
 	#circle6 {
 	position: relative;
-	left: -450%;
+	left: -400%;
 	top: -120px;
 	width: 200px;
 	height: 200px;
@@ -733,18 +733,18 @@ html,body{
 	position: relative;
 	left: 500%;
 	top: 50px;
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	}
 
 	#skill7 {
-		width: 200px;
-		height: 200px;
+		width: 220px;
+		height: 220px;
 	}
 	
 	#circle8 {
 	position: relative;
-	left: -500%;
+	left: -380%;
 	top: -10px;
 	width: 200px;
 	height: 200px;
