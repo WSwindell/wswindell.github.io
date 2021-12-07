@@ -592,8 +592,8 @@ html,body{
 }
 
 #skill5 {
-	width: 160px;
-	height: 160px;
+	width: 180px;
+	height: 180px;
 }
 
 #circle6 {
@@ -624,7 +624,7 @@ html,body{
 
 #circle8 {
 	position: relative;
-	left: 20%;
+	left: 30%;
 	top: -300px;
 	width: 110px;
 	height: 110px;
