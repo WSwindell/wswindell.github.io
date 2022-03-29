@@ -624,7 +624,7 @@ html,body{
 
 #circle8 {
 	position: relative;
-	left: 20%;
+	left: 30%;
 	top: -300px;
 	width: 110px;
 	height: 110px;
@@ -817,6 +817,13 @@ html,body{
 
 #project2 {
 	background-image: url("img/First Sewed.jpg");
+	background-position: 50% 50%;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+#project2 {
+	background-image: url("img/crownceramics.png");
 	background-position: 50% 50%;
 	background-size: contain;
 	background-repeat: no-repeat;
