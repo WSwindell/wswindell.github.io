@@ -302,10 +302,10 @@
 							<br>
 							<p class="modalText">After finishing my Master's Degree, I was asked to remake Crown Ceramics' website with a completely updated design.</p>
 							<br>
-							<p class="modalText">This was done through developing a sensing platform onboard an Arduino Uno circuitboard, and programming the arduino's functionality through the Arduino IDE to function with a third program written in Java Processing.</p>
+							<p class="modalText">Through consistent design planning and meetings to demonstrate progress and check for updated customer needs, a bespoke website was created entirely by myself.</p>
 							
 						</div>
-						<img class="modalImg" id="glovePic2" src="css/img/2 Flex Sensors.svg" alt="An example of a graph generated through this program"/>
+						<img class="modalImg" id="glovePic2" src="css/img/crownceramics.png" alt="An example of a graph generated through this program"/>
 						
 						
 						</div>
