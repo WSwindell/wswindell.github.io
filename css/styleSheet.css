@@ -829,6 +829,13 @@ html,body{
 	background-repeat: no-repeat;
 }
 
+#project4 {
+	background-image: url("img/stsmod.jpg");
+	background-position: 50% 50%;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 
 @media screen and (min-width: 1000px) {
 	

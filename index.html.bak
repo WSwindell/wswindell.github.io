@@ -296,7 +296,7 @@
 				<div class="modal">
 					<div class="modal-content" id="masterModal">
 						<span class="close">&times;</span>
-						<img class="modalImg" id="glovePic1" src="css/img/crownceramics.png" alt="A Fritzing diagram displaying the circuit of the device."/>
+						<img class="modalImg" id="glovePic1" src="css/img/crownceramics.png" alt="The Crown Ceramics logo."/>
 						<div class="modalTextWrap">
 							<p class="modalTitle">Crown Ceramics</p>
 							<br>
@@ -305,7 +305,7 @@
 							<p class="modalText">Through consistent design planning and meetings to demonstrate progress and check for updated customer needs, a bespoke website was created entirely by myself.</p>
 							
 						</div>
-						<img class="modalImg" id="glovePic2" src="css/img/crownceramics.png" alt="An example of a graph generated through this program"/>
+						<img class="modalImg" id="glovePic2" src="css/img/crownceramics.png" alt="The Crown Ceramics Logo"/>
 						
 						
 						</div>
@@ -314,6 +314,33 @@
 					<div class="projectText">
 						<p class="projectTitle">Crown Ceramics</p>
 						<p class="projectDate">2021</p>
+					</div>
+				</div>
+				
+				<div class="projectDivider"></div>
+				
+				<div class="modal">
+					<div class="modal-content" id="masterModal">
+						<span class="close">&times;</span>
+						<img class="modalImg" id="glovePic1" src="css/img/stsmod.jpg" alt="Slay The Spire Mod Picture."/>
+						<div class="modalTextWrap">
+							<p class="modalTitle">The Enforcer Mod</p>
+							<br>
+							<p class="modalText">While applying for roles following the completion of my Masters' Degree, I decided to undertake some projects to develop my skills outside of work.</p>
+							<br>
+							<p class="modalText">Therefore, I decided to develop a mod for the video game, "Slay the Spire". The mod can be found on the Steam Workshop, 
+							<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2786440893&searchtext=The+Enforcer" target="_blank">Here.</a></p>
+							
+						</div>
+						<img class="modalImg" id="glovePic2" src="css/img/stsmod.jpg" alt="Slay The Spire Mod Picture."/>
+						
+						
+						</div>
+				</div>
+				<div class="projectInstance" id="project4">
+					<div class="projectText">
+						<p class="projectTitle">The Enforcer Mod</p>
+						<p class="projectDate">2022</p>
 					</div>
 				</div>
 				

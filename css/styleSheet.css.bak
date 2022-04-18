@@ -822,7 +822,7 @@ html,body{
 	background-repeat: no-repeat;
 }
 
-#project2 {
+#project3 {
 	background-image: url("img/crownceramics.png");
 	background-position: 50% 50%;
 	background-size: contain;
