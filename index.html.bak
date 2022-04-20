@@ -40,7 +40,7 @@
 						
 						<div id="headLinksWrap">
 							<div class="headLink tooltip">
-								<a  class="instaLink" href="https://www.instagram.com/will_swinde11/">
+								<a  class="instaLink" href="https://www.instagram.com/will_swinde11/" target="_blank">
 									<i class="fab fa-instagram"></i> 
 									<span class="tooltiptext">will_swinde11</span>
 
@@ -48,7 +48,7 @@
 							</div>
 							
 							<div class="headLink">
-								<a id="linkedInLink" href = "https://www.linkedin.com/in/will-swindell-a38b52171/">
+								<a id="linkedInLink" href = "https://www.linkedin.com/in/will-swindell-a38b52171/" target="_blank">
 									<i class="fab fa-linkedin"></i>
 								</a>
 							</div>
@@ -61,7 +61,7 @@
 							</div>
 							
 							<div class="headLink tooltip">
-								<a class="githubLink" href="https://github.com/WSwindell">
+								<a class="githubLink" href="https://github.com/WSwindell" target="_blank">
 									<i class="fab fa-github"></i>									
 								</a>
 							</div>
@@ -351,14 +351,14 @@
 		
 			<div id="footerLinksWrap">
 					<div class="footerLink tooltip">
-						<a class="instaLink" href="https://www.instagram.com/will_swinde11/">
+						<a class="instaLink" href="https://www.instagram.com/will_swinde11/" target="_blank">
 						<i class="fab fa-instagram"></i> 
 						<span class="tooltiptext">will_swinde11</span>
 						</a>
 					</div>
 							
 					<div class="footerLink">
-						<a class="webLink" id="linkedInLink" href = "https://www.linkedin.com/in/will-swindell-a38b52171/">
+						<a class="webLink" id="linkedInLink" href = "https://www.linkedin.com/in/will-swindell-a38b52171/" target="_blank">
 						<i class="fab fa-linkedin"></i>
 						</a>
 					</div>
@@ -371,7 +371,7 @@
 					</div>			
 
 					<div class="footerLink tooltip">
-						<a class="githubLink" href="https://github.com/WSwindell">
+						<a class="githubLink" href="https://github.com/WSwindell" target="_blank">
 									<i class="fab fa-github"></i>									
 						</a>
 					</div>					
